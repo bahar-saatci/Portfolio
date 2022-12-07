@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8ca70ed1.css",
+    "main.js": "/portfolio/static/js/main.ef4548cb.js",
+    "static/media/me.png": "/portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/Avatar4.png": "/portfolio/static/media/Avatar4.a6ef62f43755039010f9.png",
+    "static/media/me-about.jpg": "/portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/Portofoliu4.jpg": "/portfolio/static/media/Portofoliu4.379e293c7364c0aed429.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.5ab52e025a4f7bf3cef4.jpg",
+    "static/media/etch-a-sketch.jpg": "/portfolio/static/media/etch-a-sketch.46db588f153337d7dc95.jpg",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Alexandru_Szoke-Manea_CV_2022.pdf": "/portfolio/static/media/Alexandru_Szoke-Manea_CV_2022.a285141fe8ed4080e5a4.pdf",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.7fc89082ae7ae54b7e6d.jpg",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.8b0b6f1fec1ab1a01354.jpg",
+    "static/media/Tetris.jpg": "/portfolio/static/media/Tetris.a33153544d2a756e64b7.jpg",
+    "static/media/Tic-Tac-Toe.jpg": "/portfolio/static/media/Tic-Tac-Toe.09ce9a3490541eb21237.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.8ca70ed1.css.map": "/portfolio/static/css/main.8ca70ed1.css.map",
+    "main.ef4548cb.js.map": "/portfolio/static/js/main.ef4548cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca70ed1.css",
+    "static/js/main.ef4548cb.js"
+  ]
+}
