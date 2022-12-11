@@ -1,7 +1,9 @@
 .portofolio__container {
-  display: grid;
+  /* display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2.5rem;
+  gap: 2.5rem; */
+  margin: 0, auto;
+  width: 30rem !important;
 }
 
 .portofolio__item {
@@ -10,6 +12,8 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  width: 30rem;
+  margin: 0, auto !important;
 }
 
 .portofolio__item:hover {

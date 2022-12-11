@@ -62,7 +62,7 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>alexmanea2201@gmail.com</h5>
+            <h5>bilgebahar2000@hotmail.com</h5>
             <a href="mailto:alexmanea2201@gmail.com" target="_blank">
               Send a message
             </a>
@@ -71,19 +71,18 @@ const Contact = () => {
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
-            <h5>Szőke-Manea Alexandru</h5>
-            <a href="https://m.me/alex.manea.391082" target="_blank">
+            <h5>Bilge Bahar Saatçı</h5>
+            <a href="https://m.me/bilgebahar.saatci.79" target="_blank">
               Send a message
             </a>
-            
           </article>
 
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <h5>+40 753561065</h5>
+            <h5>+90 5366401427</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=40753561064"
+              href="https://api.whatsapp.com/send?phone=905366401427"
               target="_blank"
             >
               Send a message

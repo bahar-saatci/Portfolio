@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
-import Alex from "../../assets/Portofoliu4.jpg";
+// import ME from "../../assets/me-about.jpg";
+import Bahar from "../../assets/Avatar2.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img className="about__me-Alex" src={Alex} alt="About Image" />
+            <img className="about__me-Alex" src={Bahar} alt="About Image" />
           </div>
         </div>
         <div className="about__content">
@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Studies</h5>
-              <small>University</small>
+              <small>Gebze Technical University</small>
             </article>
 
             <article className="about__card">
@@ -34,14 +34,23 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Experience</h5>
-              <small>3 Months Working</small>
+              <small>Gathered through internships</small>
             </article>
           </div>
           <p>
-           Hello, my name is Szőke-Manea Alexandru. I'm studying Automation and Computer
-           Science at the Technical University of Cluj-Napoca and I will graduate next year.
-           I am looking to enhance my programming skills and I am ready to face a new challenge.
-           I desire to continue my career in this domain, investing in my professional development
+            Hello, my name is Bilge Bahar Saatçı. I'm studying Architecture at
+            the Technical University of Gebze in Istanbul. As an architecture
+            student, I am a highly motivated and creative individual with a
+            passion for designing and creating functional and aesthetically
+            pleasing buildings and other structures. I have experience with a
+            variety of design software and I have completed projects that
+            demonstrate my ability to create innovative and practical designs.
+            In addition, I have knowledge of building codes and regulations, and
+            I am familiar with sustainable design principles and techniques. I
+            am also a strong communicator and collaborator, with the ability to
+            work effectively with clients and members of the design team. I am
+            eager to apply my skills and knowledge to challenging design
+            projects.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
