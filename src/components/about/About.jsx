@@ -38,7 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello, my name is Bilge Bahar Saatçı. I'm studying Architecture at
+            Hello, my name is Bilge Bahar Saatçi. I'm studying Architecture at
             the Technical University of Gebze in Istanbul. As an architecture
             student, I am a highly motivated and creative individual with a
             passion for designing and creating functional and aesthetically
