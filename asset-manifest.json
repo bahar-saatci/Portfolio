@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b2e070fa.css",
-    "main.js": "/portfolio/static/js/main.b280d784.js",
+    "main.css": "/portfolio/static/css/main.c7b2913e.css",
+    "main.js": "/portfolio/static/js/main.7a0466fc.js",
     "static/media/Portfolio-Bilge Bahar SAATÇİ.pdf": "/portfolio/static/media/Portfolio-Bilge Bahar SAATÇİ.8811a4996907868da777.pdf",
     "static/media/Avatar1.png": "/portfolio/static/media/Avatar1.df6e4d7f3c77509dd2ac.png",
     "static/media/Avatar2.jpeg": "/portfolio/static/media/Avatar2.9e996c13c0cee5fb4d7e.jpeg",
     "static/media/Bilge_Bahar_Saatçi_CV.pdf": "/portfolio/static/media/Bilge_Bahar_Saatçi_CV.e777c65fd3595d7442f2.pdf",
     "static/media/Portfolio.jpg": "/portfolio/static/media/Portfolio.8933068c24f8b8b0d9b1.jpg",
     "index.html": "/portfolio/index.html",
-    "main.b2e070fa.css.map": "/portfolio/static/css/main.b2e070fa.css.map",
-    "main.b280d784.js.map": "/portfolio/static/js/main.b280d784.js.map"
+    "main.c7b2913e.css.map": "/portfolio/static/css/main.c7b2913e.css.map",
+    "main.7a0466fc.js.map": "/portfolio/static/js/main.7a0466fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2e070fa.css",
-    "static/js/main.b280d784.js"
+    "static/css/main.c7b2913e.css",
+    "static/js/main.7a0466fc.js"
   ]
 }
