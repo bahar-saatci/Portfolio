@@ -72,6 +72,7 @@ section > h5 {
 section > h2 {
   color: var(--color-primary);
   margin-bottom: 3rem;
+  /* margin-left: 1rem; */
 }
 
 .text-light {
@@ -117,9 +118,9 @@ img {
 
 /* ======== MEDIA QUERY(Medium Devices) ======= */
 @media screen and(max-width:1024px) {
-  .container {
+  /* .container {
     width: var(--container-width-md);
-  }
+  } */
   section {
     margin-top: 6rem;
   }
@@ -134,6 +135,19 @@ img {
     margin-bottom: 2rem;
   }
 }
+
+/* ======== MEDIA QUERY(Small Devices) ======= */
+/* @media screen and(max-width:419px) and (min-width: 1px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+  section > h2 {
+    margin-bottom: 2rem;
+  }
+  #root {
+    width: 1200px;
+  }
+} */
 
 /* @media screen and(max-width:850px) and (min-width: 601px) {
   .container {

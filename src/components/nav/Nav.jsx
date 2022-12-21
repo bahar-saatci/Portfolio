@@ -49,15 +49,15 @@ const Nav = () => {
       document.body.scrollHeight < 6500
     ) {
       console.log("Caz B");
-      if (scrollY < 550) {
+      if (scrollY < 150) {
         setActiveNav("#");
-      } else if (scrollY > 550 && scrollY < 1450) {
+      } else if (scrollY > 150 && scrollY < 1300) {
         setActiveNav("#about");
-      } else if (scrollY > 1450 && scrollY < 2200) {
+      } else if (scrollY > 1300 && scrollY < 2450) {
         setActiveNav("#experience");
-      } else if (scrollY > 2200 && scrollY < 3800) {
+      } else if (scrollY > 2450 && scrollY < 3600) {
         setActiveNav("#portofolio");
-      } else if (scrollY > 3800) {
+      } else if (scrollY > 3600) {
         setActiveNav("#contact");
       }
     } else if (

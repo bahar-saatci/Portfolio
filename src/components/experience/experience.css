@@ -4,7 +4,7 @@
   gap: 2rem; */
   /* padding-left: 17rem;
   padding-right: 17rem; */
-  width: 50rem !important;
+  /* width: 50rem !important; */
 }
 
 .experience__container > div {
@@ -50,13 +50,14 @@
     grid-template-columns: 1fr;
   }
   .experience__container > div {
-    width: 80%;
+    width: 100%;
     padding: 2rem;
-    margin: 0 auto;
+    /* margin: 0 auto; */
   }
 
   .experience__content {
     padding: 1rem;
+    margin-left: 2rem;
   }
 }
 /* ======== MEDIA QUERY(Small Devices) ======= */
@@ -67,5 +68,11 @@
   .experience__container > div {
     width: 100%;
     padding: 2rem 1rem;
+    margin: 0, auto;
+  }
+
+  .experience__content {
+    padding: 1rem;
+    margin-left: 0rem;
   }
 }

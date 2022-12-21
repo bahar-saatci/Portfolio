@@ -62,7 +62,7 @@ header {
 }
 
 .me > img {
-  margin-top: -5rem;
+  margin-top: -6rem;
   transform: scale(0.7);
 }
 .scroll__down {
@@ -97,9 +97,9 @@ header {
 }
 
 /* ======== MEDIA QUERY(Small Devices) ======= */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) and (min-width: 386px) {
   header {
-    height: 100vh;
+    /* height: 100vh; */
     overflow: visible;
     margin-bottom: 12rem;
   }
@@ -108,16 +108,24 @@ header {
   .scroll__down {
     display: none;
   }
+  /* aici modifica width -ul paginii */
+  #root {
+    width: 50rem;
+  }
 }
 
 @media screen and (max-width: 385px) {
   header {
-    height: 140vh;
+    /* height: 140vh; */
   }
 
   .header__socials,
   .scroll__down {
     display: none;
+  }
+  /* aici modifica width -ul paginii */
+  #root {
+    width: 50rem;
   }
 }
 
